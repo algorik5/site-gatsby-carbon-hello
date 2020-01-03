@@ -4,7 +4,6 @@
 
 ## 데모 [go](https://algorik5.github.io/site-gatsby-carbon-hello/){:target="_blank" rel="noopener"}
 
-<a href="https://thirsty-lovelace-7a75d8.netlify.com/" target="_blank" rel="noopener">Go</a>
   ![](./static/images/site-gatsby-carbon-hello.PNG)
 
 ## 참고
@@ -35,3 +34,8 @@
 - gatsby build --prefix-paths && gh-pages -d public
 - https://algorik5.github.io/site-gatsby-carbon-hello/
 
+## netlify 배포
+- new site from git
+- site-gatsby-carbon-hello 선택
+- Deploy site 클릭
+- https://thirsty-lovelace-7a75d8.netlify.com/
