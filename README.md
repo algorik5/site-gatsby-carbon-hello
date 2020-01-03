@@ -2,9 +2,8 @@
   Gatsby Theme Carbon
 </h1>
 
-## 데모(https://algorik5.github.io/site-gatsby-carbon-hello/)
+## 데모 [go](https://algorik5.github.io/site-gatsby-carbon-hello/){:target="_blank" rel="noopener"}
 
-- [데모](https://algorik5.github.io/site-gatsby-carbon-hello/)
   ![](./static/images/site-gatsby-carbon-hello.PNG)
 
 ## 참고
