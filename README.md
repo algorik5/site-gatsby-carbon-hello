@@ -4,6 +4,7 @@
 
 ## 데모 [go](https://algorik5.github.io/site-gatsby-carbon-hello/){:target="_blank" rel="noopener"}
 
+<a href="https://thirsty-lovelace-7a75d8.netlify.com/" target="_blank">Go</a>
   ![](./static/images/site-gatsby-carbon-hello.PNG)
 
 ## 참고
