@@ -1,5 +1,6 @@
 <h1 align="center">
   Gatsby Theme Carbon
+  ![](./static/images/site-gatsby-carbon-hello.PNG)
 </h1>
 
 ## 참고
