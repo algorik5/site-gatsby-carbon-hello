@@ -2,12 +2,12 @@
   Gatsby Theme Carbon
 </h1>
 
-## ref
+## 참고
 
 - gatsby-theme-carbon (https://gatsby-theme-carbon.now.sh/getting-started/)
 - npm install gatsby-cli -g
 
-## steps
+## 작업 순서
 - gatsby new site-gatsby-carbon-hello https://github.com/carbon-design-system/gatsby-starter-carbon-theme
 - cd site-gatsby-carbon-hello
 - gatsby develop
@@ -23,4 +23,10 @@
 - git init
 - git remote add origin https://github.com/algorik5/site-gatsby-carbon-hello.git
 - git push -u origin master
+
+## git pages 배포
+- npm install gh-pages -g
+- gatsby-config.js 수정 : pathPrefix: "/site-gatsby-carbon-hello",
+- gatsby build --prefix-paths && gh-pages -d public
+- https://algorik5.github.io/site-gatsby-carbon-hello/
 

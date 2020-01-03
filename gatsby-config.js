@@ -5,4 +5,5 @@ module.exports = {
     keywords: 'gatsby,theme,carbon',
   },
   plugins: ['gatsby-theme-carbon'],
+  pathPrefix: "/site-gatsby-carbon-hello",
 };
